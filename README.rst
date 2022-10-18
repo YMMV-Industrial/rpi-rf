@@ -3,7 +3,7 @@ rpi-rf
 
 Introduction
 ------------
-Forked from https://github.com/milaq/rpi-rf.  Modified rpi_rf_recieve script to include time stamp and file logging instead of standard out. Good for capturing activity after hours and matching back up with security cameras.
+Forked from https://github.com/milaq/rpi-rf.  Modified rpi_rf_recieve script to include time stamp and file logging instead of standard out. Good for capturing activity after hours and matching back up with security cameras.  Seems to work on most Raspian OS and hardware but script seems to need root to access the GPIO if you want to get up and running quickly. 
 
 
 
