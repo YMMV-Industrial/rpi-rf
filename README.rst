@@ -3,6 +3,9 @@ rpi-rf
 
 Introduction
 ------------
+Forked from https://github.com/milaq/rpi-rf.  Modified rpi_rf_recieve script to include time stamp and file logging instead of standard out. Good for capturing activity after hours and matching back up with security cameras.
+
+
 
 Python module for sending and receiving 433/315MHz LPD/SRD signals with generic low-cost GPIO RF modules on a Raspberry Pi.
 
